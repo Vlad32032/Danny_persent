@@ -9,6 +9,10 @@
     margin: 0 auto;
 }
 
+.percent_wrapper ul {
+    padding: 0;
+}
+
 .percent_wrapper ul li {
     list-style: none;
     display: flex;
