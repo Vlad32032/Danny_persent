@@ -1,0 +1,49 @@
+.wrapper {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.percent_wrapper {
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.percent_wrapper ul li {
+    list-style: none;
+    display: flex;
+}
+
+.percent_name {
+    text-align: center;
+    width: 20%;
+}
+
+.percent_line_wrapper {
+    width: 70%;
+    display: flex;
+    align-items: center;
+}
+
+.percent_line_html {
+    width: 80%;
+    height: 50%;
+    background-color: rgba(1, 1, 117, 0.979);
+}
+
+.percent_line_css {
+    width: 90%;
+    height: 50%;
+    background-color: rgba(1, 1, 117, 0.979);
+}
+
+.percent_line_js {
+    width: 70%;
+    height: 50%;
+    background-color: rgba(1, 1, 117, 0.979);
+}
+
+.percent_num {
+    text-align: center;
+    width: 10%;
+}
